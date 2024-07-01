@@ -40,7 +40,6 @@ namespace OA.Application.Exceptions
             List<string> errors = new()
             {
                 $"Error Message: {exception.Message}",
-                $"Description : {exception.InnerException?.ToString()}"
             };
 
             return httpContext.Response.WriteAsync(new ExceptionModel
