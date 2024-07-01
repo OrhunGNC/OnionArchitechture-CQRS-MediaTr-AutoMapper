@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Uwz8xnY7UzPzy9COICSacVXHzx7agS5L2DtYyc9sJLAxc35XBo8+ll62TW7LQBScjLy+DK7HmD0wLeGCoBKGpQ==",
+  "dgSpecHash": "zc9RDW9qLk7K5OKT6owoEyEEhf9BQ/qav7iJwnEfNl2t9ESpchJ+ndPEN2ZUUcRWeFi2SCpq/f7eX4vNeBIdKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\OA.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

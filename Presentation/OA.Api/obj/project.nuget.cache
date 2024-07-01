@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fj2xglE9Dg3DORnD0EqPlLTmYWm5/xaQA3ZGeOw3bZALGPbJzBLVVn4xHEiV0OyZTP/6WnOuOLxTGl+X5uFH+w==",
+  "dgSpecHash": "7djuAITeGuVLq7OcouK6iGSczNL0aYXaP/AA7n+EOg6H6EkxxEPLIqeDzU+nR3k7c3sjOSHWT6RKua9d7pKzrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Presentation\\OA.Api\\OA.Api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\orhun\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\orhun\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\orhun\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

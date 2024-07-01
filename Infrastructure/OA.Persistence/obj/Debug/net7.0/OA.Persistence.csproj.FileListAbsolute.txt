@@ -76,3 +76,4 @@ C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMappe
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Infrastructure\OA.Persistence\obj\Debug\net7.0\OA.Persistence.pdb
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Infrastructure\OA.Persistence\obj\Debug\net7.0\OA.Persistence.genruntimeconfig.cache
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Infrastructure\OA.Persistence\obj\Debug\net7.0\ref\OA.Persistence.dll
+C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Infrastructure\OA.Persistence\obj\Debug\net7.0\OA.Persistence.sourcelink.json

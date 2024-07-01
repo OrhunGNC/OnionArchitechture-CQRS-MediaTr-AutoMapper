@@ -1,7 +1,80 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\features\\products\\command\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\behaviours\\fluentvalidationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\behaviours\\fluentvalidationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9278BBE-211E-4CBA-A094-80C790442226}|Infrastructure\\OA.Persistence\\OA.Persistence.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\infrastructure\\oa.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9278BBE-211E-4CBA-A094-80C790442226}|Infrastructure\\OA.Persistence\\OA.Persistence.csproj|solutionrelative:infrastructure\\oa.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FDDFCC-5C95-461A-A478-94FDA4CC1E4A}|Core\\OA.Api.Mapper\\OA.Api.Mapper.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.api.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FDDFCC-5C95-461A-A478-94FDA4CC1E4A}|Core\\OA.Api.Mapper\\OA.Api.Mapper.csproj|solutionrelative:core\\oa.api.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|solutionrelative:core\\oa.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|solutionrelative:core\\oa.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3340A28-AFAE-4206-A4B9-D0BC494F5804}|Core\\OA.Application\\OA.Application.csproj|solutionrelative:core\\oa.application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|c:\\users\\orhun\\onedrive\\desktop\\github\\onionarchitechture-cqrs-mediatr-automapper\\core\\oa.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C71F92-1633-450C-804C-268AA1928CCA}|Core\\OA.Domain\\OA.Domain.csproj|solutionrelative:core\\oa.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +82,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:56:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:54:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:54:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:54:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:53:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:41:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:53:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:51:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:41:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:36:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Registration.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Registration.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Registration.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:28:43.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Infrastructure\\OA.Persistence\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\OA.Persistence\\Registration.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Infrastructure\\OA.Persistence\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\OA.Persistence\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:28:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Api.Mapper\\Registration.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Api.Mapper\\Registration.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Api.Mapper\\Registration.cs",
+              "RelativeToolTip": "Core\\OA.Api.Mapper\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:28:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FluentValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Behaviours\\FluentValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\Behaviours\\FluentValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\Behaviours\\FluentValidationBehaviour.cs",
+              "RelativeToolTip": "Core\\OA.Application\\Behaviours\\FluentValidationBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:27:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\OA.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:41:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Domain\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "Core\\OA.Domain\\Entities\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:41:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\DTOs\\BrandDto.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Application\\DTOs\\BrandDto.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Application\\DTOs\\BrandDto.cs",
+              "RelativeToolTip": "Core\\OA.Application\\DTOs\\BrandDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:41:22.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\OA.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\orhun\\OneDrive\\Desktop\\GitHub\\OnionArchitechture-CQRS-MediaTr-AutoMapper\\Core\\OA.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\OA.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:41:15.649Z",
+              "EditorCaption": ""
             }
           ]
         }

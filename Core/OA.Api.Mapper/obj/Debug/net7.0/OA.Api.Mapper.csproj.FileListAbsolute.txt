@@ -50,3 +50,4 @@ C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMappe
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Core\OA.Api.Mapper\obj\Debug\net7.0\refint\OA.Api.Mapper.dll
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Core\OA.Api.Mapper\obj\Debug\net7.0\OA.Api.Mapper.pdb
 C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Core\OA.Api.Mapper\obj\Debug\net7.0\ref\OA.Api.Mapper.dll
+C:\Users\orhun\OneDrive\Desktop\GitHub\OnionArchitechture-CQRS-MediaTr-AutoMapper\Core\OA.Api.Mapper\obj\Debug\net7.0\OA.Api.Mapper.sourcelink.json
